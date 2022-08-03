@@ -1,2 +1,2 @@
 # That-is-The-Point
-Crianção de um projeto para contar Horas Trabalhadas
+O That is The Point é um app para contar Horas Trabalhadas e te ajudar na organização de tempo.
